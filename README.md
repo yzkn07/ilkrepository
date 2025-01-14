@@ -1,4 +1,4 @@
 # ilkrepository
 deneme yapıyorum. 
 bu bir markdown dosyası
-ikinci kısım
+mali ikinci branch ilk işlemi
